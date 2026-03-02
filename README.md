@@ -9,6 +9,6 @@
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ywghost&show_icons=true&bg_color=0d1117&title_color=ffcb05&text_color=ffffff&icon_color=3b4cca&border_color=ffcb05"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywghost&layout=compact&bg_color=0d1117&title_color=ffcb05&text_color=ffffff&border_color=ffcb05"/>
 </div>
