@@ -5,3 +5,4 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,html" />
 </p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ywghost&layout=compact&langs_count=2)
